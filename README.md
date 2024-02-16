@@ -2,6 +2,8 @@
 
 # Electric Vehicle Control System
 
+![PiCar in development](media/ev_architecture_cover_pic.jpg "Cover")
+
 ## Abstract
 This project is aimed at developing a comprehensive control system for an electric vehicle (EV) that integrates driving functions, optics, charging capabilities, and passenger safety. It seeks to bridge the gap between software and mechanical engineering by designing a prototype control architecture that enables the seamless operation of various vehicle systems. The primary objective is to develop a control architecture using Python, allowing for efficient management and coordination of the EV's key functionalities. The architecture will be designed to facilitate the transition to autonomous driving in the future. A test stand consisting of a DC motor and a lithium-ion battery pack will be constructed to validate the proposed control architecture, simulating an EV powertrain. The control software will be integrated with hardware components to assess performance in real-world conditions, using personal laptops and Arduino microcontrollers to mimic a commercial vehicle's ECU. The project aims to demonstrate the feasibility of the control architecture and its adaptability to autonomous driving technologies, enhancing the performance and safety of battery-electric passenger vehicles.
 
