@@ -27,3 +27,4 @@ class ControlUnit:
 
 if __name__ == '__main__':
     control_unit = ControlUnit()
+    control_unit.run()
