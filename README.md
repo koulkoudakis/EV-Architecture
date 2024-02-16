@@ -15,7 +15,7 @@ What things you need to install the software and how to install them:
 
 ```bash
 python >= 3.8
-Any additional hardware-specific drivers or SDKs
+opencv
 ```
 
 ### Installing
@@ -67,7 +67,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourProfile](https://github.com/koulkoudakis)
+* **Sharome Burton** - *Initial work* - [koulkoudakis](https://github.com/koulkoudakis)
 
 See also the list of [contributors](https://github.com/EthanJBailey) who participated in this project.
 
